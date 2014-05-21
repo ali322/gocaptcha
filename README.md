@@ -4,8 +4,6 @@ View in [[English](README-en.md)][[中文](README.md)]
 # gocaptcha
 go语言验证码服务器
 
-[![Build Status](https://travis-ci.org/hanguofeng/gocaptcha.png?branch=master)](https://travis-ci.org/hanguofeng/gocaptcha)
-
 Feature
 -------
 * 支持中文验证码
@@ -21,7 +19,7 @@ Useage
 ------
 **安装**
 
-	go get github.com/hanguofeng/gocaptcha
+	go get github.com/ali322/gocaptcha
 
 **Quick Start**
 
@@ -39,8 +37,3 @@ TODO
 LICENCE
 -------
 gocaptcha使用[[MIT许可协议](LICENSE)]
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hanguofeng/gocaptcha/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
