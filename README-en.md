@@ -21,7 +21,7 @@ Useage
 ------
 **Install**
 
-	go get github.com/hanguofeng/gocaptcha
+	go get github.com/ali322/gocaptcha
 
 **Quick Start**
 
@@ -29,7 +29,7 @@ See [captcha_test.go](captcha_test.go)
 
 **Document**
 
-[[captcha.go Wiki](https://github.com/hanguofeng/gocaptcha/wiki)]
+[[captcha.go Wiki](https://github.com/ali322/gocaptcha/wiki)]
 
 TODO
 ----

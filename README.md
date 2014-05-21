@@ -27,7 +27,7 @@ Useage
 
 **文档**
 
-[[captcha.go Wiki](https://github.com/hanguofeng/gocaptcha/wiki)]
+[[captcha.go Wiki](https://github.com/ali322/gocaptcha/wiki)]
 
 TODO
 ----
